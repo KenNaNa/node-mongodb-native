@@ -1,3 +1,22 @@
+# vue2.x.js项目  移动端音乐app
+https://github.com/KenNaNa/music_app
+
+
+# underscore.js的学习系列
+https://github.com/KenNaNa/underrscore.js-
+
+# 微信小程序的项目
+https://github.com/KenNaNa/wx_project
+
+# vue2.x.js Pos收银界面
+https://github.com/KenNaNa/vue_pos_project
+
+# HTML5 Audio API
+https://github.com/KenNaNa/HTML5-audio-API
+
+
+
+
 [![npm](https://nodei.co/npm/mongodb.png?downloads=true&downloadRank=true)](https://nodei.co/npm/mongodb/) [![npm](https://nodei.co/npm-dl/mongodb.png?months=6&height=3)](https://nodei.co/npm/mongodb/)
 
 [![Build Status](https://secure.travis-ci.org/mongodb/node-mongodb-native.svg?branch=2.1)](http://travis-ci.org/mongodb/node-mongodb-native)
